@@ -23,4 +23,3 @@ class Triangle(Figure):
 # Функция расчета периметра треугольника
     def get_perimeter(self):
         return self.side_1 + self.side_2 + self.side_3
-
